@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://opoxiao3.github.io/meiridasaiwa/sitemap.xml
